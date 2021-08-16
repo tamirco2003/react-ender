@@ -1,6 +1,6 @@
 {
 	"name": "react-ender",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "The simplest global state library.",
 	"main": "dist/index.js",
 	"scripts": {
